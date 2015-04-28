@@ -12,7 +12,7 @@ import mem, const
 import traceback
 import const
 
-DEBUG_MODE=False
+DEBUG_MODE=True
 PC = 0
 bkpoint=[]
 hexes=[]
